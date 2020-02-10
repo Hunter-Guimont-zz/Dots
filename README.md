@@ -1,4 +1,5 @@
-# GaugeK's dotfiles
+# Forked from GaugeK's dotfiles
+Original README:
 
 Feel free to do anything with these files. Credit isn't needed but is appreciated.
 
